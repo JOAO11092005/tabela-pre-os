@@ -1,0 +1,13 @@
+body{
+    margin: 100px;
+    font-size: 25px;
+}
+body table tr .casa{
+    background-color: #BB86FC;
+}
+body table tr .cor{
+    background-color:  #424250;
+}
+body table tr .casa{
+    background-color: #00C4B4;
+}
